@@ -13,11 +13,11 @@
  } 
   
  body.dark { 
-         background-image: url('../imgs/dark_bg.jpg'); 
+         background-image: url('https://telegra.ph/file/663dd1b75a08f6611d050.jpg'); 
  } 
   
  body.light { 
-         background-image: url('../imgs/light_bg.jpg'); 
+         background-image: url('https://telegra.ph/file/d0277a01e408a7d53363d.jpg'); 
  } 
           
  #check { 
