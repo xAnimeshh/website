@@ -13,11 +13,11 @@
  } 
   
  body.dark { 
-         background-image: url('https://te.legra.ph/file/22d9791fd7f6ced99f8e2.jpg'); 
+         background-image: url('../imgs/dark_bg.jpg'); 
  } 
   
  body.light { 
-         background-image: url('https://te.legra.ph/file/8b296d040c5c242ebea38.jpg'); 
+         background-image: url('../imgs/light_bg.jpg'); 
  } 
           
  #check { 
